@@ -1,0 +1,31 @@
+#title {
+    text-align: center;
+}
+
+#description {
+    background-color: pink;
+    color: rgba(0, 0, 0, 0.9);
+    text-align: center;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+#ingredients {
+    background-color: cadetblue;
+    color: rgba(0, 0, 0, 0.9);
+}
+
+#steps {
+    background-color: darkseagreen;
+}
+
+#steps ol {
+    list-style: none;
+}
+
+#steps h4 {
+    text-transform: uppercase;
+    font-weight: lighter;
+}
